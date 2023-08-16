@@ -3,11 +3,11 @@
 
 ## Internet Gateway
 # <h1 align="center"><img src="https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/images/internet-gateway-basics.png" width="480"><h1>
-
 VPC와 인터넷 간의 브리지 역할을 한다. 이를 통해 VPC 내부의 인스턴스가 인터넷에 직접 연결될 수 있다.
 공개 서브넷 내의 인스턴스가 인터넷에 직접 연결되어야 하는 경우에 사용된다.
 
 ## Egress-only Internet Gateway
+# <h1 align="center"><img src="https://docs.aws.amazon.com/images/vpc/latest/userguide/images/egress-only-igw.png" width="480"><h1>
 IPv6 활성화된 VPC에서 프라이빗 서브넷에 있는 인스턴스가 인터넷에 나가기 위한 경로를 제공한다. 주로 IPv6 주소를 사용하는 VPC에서 사용된다
 IPv6를 사용하는 프라이빗 서브넷의 인스턴스가 인터넷 업데이트나 패치를 받아야 할 때 사용된다.
 
