@@ -1,7 +1,7 @@
 # Internet G/W, Egress-only internet G/W, NAT G/W
 ### 이 세 가지 구성요소는 AWS에서 VPC환경에서의 인터넷 연결을 관리하기 위해 사용된다.
 
-## Internet Gateway
+*Internet Gateway*
 VPC와 인터넷 간의 브리지 역할을 한다. 이를 통해 VPC 내부의 인스턴스가 인터넷에 직접 연결될 수 있다.
 공개 서브넷 내의 인스턴스가 인터넷에 직접 연결되어야 하는 경우에 사용된다.
 
