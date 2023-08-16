@@ -12,5 +12,6 @@ IPv6 활성화된 VPC에서 프라이빗 서브넷에 있는 인스턴스가 인
 IPv6를 사용하는 프라이빗 서브넷의 인스턴스가 인터넷 업데이트나 패치를 받아야 할 때 사용된다.
 
 ## NAT Gateway
+# <h1 align="center"><img src="https://docs.aws.amazon.com/ko_kr/vpc/latest/userguide/images/public-nat-gateway-diagram.png"><h1>
 프라이빗 서브넷 내의 인스턴스가 인터넷으로 아웃바운드 연결을 할 수 있게 하지만, 인터넷에서 직접적인 인바운드 트래픽은 허용하지 않는다.
 공개 서브넷 내에 위치하여 프라이빗 서브넷의 인스턴스들에게 인터넷 엑세스를 허용 한다.
