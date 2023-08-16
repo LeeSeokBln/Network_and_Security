@@ -1,15 +1,15 @@
-# VPC [vpc]
+# VPC이론 [VPC]
 
-# CloudFront [cloudfront]
+# CloudFront이론 [CloudFront]
 
-# LB [lb]
+# LB이론 [LB]
 
-# IAM [iam]
+# IAM이론 [IAM]
 
-# WAF/Shield [waf]
+# WAF/Shield이론 [WAF/Shield]
 
-[vpc]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/VPC.md
-[cloudfront]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/CloudFront.md
-[lb]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/LB.md
-[iam]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/IAM.md
-[waf]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/WAF%2CShield.md
+[VPC]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/VPC.md
+[CloudFront]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/CloudFront.md
+[LB]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/LB.md
+[IAM]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/IAM.md
+[WAF/Shield]: https://github.com/LeeSeokBln/Network_and_Security/blob/main/WAF%2CShield.md
